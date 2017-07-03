@@ -1,0 +1,18 @@
+{
+  "name": "bot",
+  "version": "0.0.1",
+  "description": "A really simple discord bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mathieufan"
+  },
+  "author": "Mathieu Fan",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.1.0"
+  }
+}
